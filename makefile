@@ -3,3 +3,6 @@ command1:
 
 command2:
 	python -m flask run
+
+command3:
+	pylint app.py
